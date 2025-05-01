@@ -50,7 +50,7 @@ UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "js"
 
 # homeproxy-with-clash-api
 # UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
-UPDATE_PACKAGE "homeproxy" "kenzok8/small-package" "main" "pkg"
+UPDATE_PACKAGE "homeproxy" "HyperLYP/homeproxy-with-clash-api" "master"
 
 UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
 UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
